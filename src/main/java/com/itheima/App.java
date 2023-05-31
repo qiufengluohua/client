@@ -24,5 +24,6 @@ public class App implements WebMvcConfigurer {
         SpringApplication.run(App.class, args);
         System.out.println("月是故乡明");
         System.out.println("流芳千古");
+        System.out.println("秋天");
     }
 }
