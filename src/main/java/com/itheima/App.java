@@ -29,5 +29,6 @@ public class App implements WebMvcConfigurer {
         System.out.println("hello git5");
         System.out.println("hello git6");
         System.out.println("hello git8");
+        System.out.println("hello git9");
     }
 }
