@@ -22,8 +22,10 @@ public class App implements WebMvcConfigurer {
 
     public static void main(String[] args) {
         SpringApplication.run(App.class, args);
-        System.out.println("月是故乡明");
-        System.out.println("流芳千古");
-        System.out.println("秋天");
+        System.out.println("hello git1");
+        System.out.println("hello git2");
+        System.out.println("hello git3");
+        System.out.println("hello git4");
+        System.out.println("hello git5");
     }
 }
